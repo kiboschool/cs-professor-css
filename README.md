@@ -40,6 +40,9 @@ Notice how not all of these sites use white/off-white backgrounds and not all of
 
 Use this checklist to confirm that you've included everything you need:
 
+- [ ] Use at least two classes
+- [ ] Use at least one id
+
 ### Typography
 - [ ] Choose a heading font with fallbacks
 - [ ] Choose a paragraph font with fallbacks
