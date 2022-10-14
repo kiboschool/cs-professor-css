@@ -1,12 +1,12 @@
-# Project: CS Professor Home Page
+# Project: Your Profile Page
 
 ## Introduction
 
-This task is levelling up your CS Professor page, let's break the habit of poorly styled pages and do something different. This is your time to let your creativity shine, be experimental and ultimately find what speaks to your CS Professor personality.
+This task is levelling up your CS Professor page, let's break the habit of poorly styled pages and do something different. You're going to be changing this into your profile page. Add some information about yourself, think of it as an online CV, include your education history and hobbies and an image that you think best represents you. This is your time to let your creativity shine and be experimental.
 
 ## Your Task
 
-For this project, you're deviating from the CS Professor style to make it yours. You'll need to use the CSS you've learned this week to take your page to the next level.
+For this project, you're deviating from the CS Professor style to make a full fledged profile page. You'll need to use the CSS you've learned this week to take your page to the next level.
 
 ### Disclaimer
 
@@ -20,9 +20,9 @@ Prepare what you'll need to build the site. Write down all of the facts and info
 
 You'll be editing both the `index.html` and `style.css` files, so make sure you're adding the correct code in the correct file.
 
-Using the lessons from this week, make sure your CS Professor page meets the standard for web pages, use the rubric below to make sure you meet the requirements. As mentioned before, you can be creative but more importantly your site needs to be legible, visitors are your first priority.
+Using the lessons from this week, make sure your profile page meets the standard for web pages, use the rubric below to make sure you meet the requirements. As mentioned before, you can be creative but more importantly your site needs to be legible, visitors are your first priority.
 
-Draw inspiration from your favorite websites, you can use this list as a starting point:
+Draw inspiration from your favourite websites, you can use this list as a starting point:
 - https://www.sarasoueidan.com/
 - https://lolaodelola.dev
 - https://jensimmons.com/
@@ -42,6 +42,9 @@ Use this checklist to confirm that you've included everything you need:
 
 - [ ] Use at least two classes
 - [ ] Use at least one id
+- [ ] Information about yourself
+- [ ] An image that properly represents you
+- [ ] A list of your education history
 
 ### Typography
 - [ ] Choose a heading font with fallbacks
